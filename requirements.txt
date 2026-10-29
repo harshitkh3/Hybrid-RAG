@@ -1,0 +1,7 @@
+langchain
+langgraph
+langsmith
+langchain_community
+langchain-google-genai
+pinecone
+pinecone_text

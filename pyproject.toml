@@ -1,0 +1,16 @@
+[project]
+name = "hybrid-rag"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel>=7.4.0",
+    "langchain>=1.4.7",
+    "langchain-community>=0.4.2",
+    "langchain-google-genai>=4.4.2",
+    "langgraph>=1.2.18",
+    "langsmith>=0.14.14",
+    "pinecone>=10.2.0",
+    "pinecone-text>=0.11.0",
+]
